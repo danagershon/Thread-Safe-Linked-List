@@ -2,7 +2,7 @@
 
 Operating System Course HW3: Thread Safe Linked List in C++
 
-• Multi-threaded sorted linked list implementation
+• Multi-threaded sorted singly linked list implementation
 
 • Providing fine-grained locking using hand-over-hand locking
 
